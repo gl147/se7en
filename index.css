@@ -1,0 +1,35 @@
+body {
+	 font-family: Arial;
+	}
+
+.wrapper {
+	padding: 20px;
+	}
+
+.img-container {
+	float: left;
+	width: 120px;
+	margin: 10px;
+	}
+
+.img-container img {
+	width: 120px;
+	}
+
+.signing {
+	float: right;
+	right: 5px;
+	font-style: italic;
+	}
+
+h1 {
+	font-weight: 600;
+	font-size: 18px;
+}
+
+p {
+	font-size: 14px;
+	font-weight: 400;
+}
+
+ 
